@@ -42,7 +42,7 @@ The project has been implemented in a mobile application using <strong>Flutter</
 
 <h2>App Screenshots</h2>
 <p>Below are some screenshots of the mobile application:</p>
-<img src="https://github.com/user-attachments/assets/66cb88f0-7360-487b-ac3e-deb92a3fec8c" alt="App Screenshot" width="300">
+<img src="!https://github.com/user-attachments/assets/e247a9a7-4092-46ff-bf65-d16a4ac771b0" alt="App Screenshot">
 
 <h2>Usage</h2>
 <ol>
