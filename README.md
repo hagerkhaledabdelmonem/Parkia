@@ -1,5 +1,5 @@
 # Early Detection of Parkinson's Disease using Hand Drawing and Speech
-## Project Overview:
+## Project Overview
 
 This project is part of my graduation thesis from the Faculty of Computer and Information Science, Scientific Computing Department, Ain Shams University.
 
@@ -26,14 +26,14 @@ The project has been implemented in a mobile application using <strong>Flutter</
     </li>
 </ul>
 
-## Tech Stack:
+## Tech Stack
 - <strong>Mobile App:</strong> Flutter
 - <strong>Back-End:</strong> Flask
 - <strong>Machine Learning Models:</strong>
     - Convolutional Neural Network (CNN) for Hand Drawing Analysis
     - Random Forest for Speech Analysis
 
-## Dataset:
+## Dataset
 <p>The datasets used for this project are publicly available and can be accessed as follows:</p>
 <ul>
     <li><strong>Hand Drawing Analysis:</strong> We used the <a href="https://wwwp.fc.unesp.br/~papa/pub/datasets/Handpd/" target="_blank">NewHandPD</a> dataset, which includes various hand-drawn shapes collected from Parkinson's patients and healthy individuals.</li>
